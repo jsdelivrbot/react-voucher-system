@@ -1,8 +1,0 @@
-{
-  "name": "Voucher System",
-  "description": "A simple react voucher app",
-  "repository": "https://github.com/vic2oke/React-Voucher-System",
-  "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/master/public/node.svg",
-  "keywords": ["voucher", "react", "heroku", "rave"],
-  "image": "heroku/nodejs"
-}
