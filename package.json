@@ -9,20 +9,22 @@
   },
   "main": "src/index.js",
   "license": "MIT",
-  "scripts": {
-    "start": "webpack-dev-server --open",
-    "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject",
-	"heroku-postbuild": "npm run build"
-  },
   "dependencies": {
     "react": "^16.0.0",
     "react-dom": "^16.0.0",
+	"react-scripts": "2.1.1",
     "react-flutterwave-rave": "^1.0.4",
     "react-ravepayment": "^2.0.0",
     "react-router-dom": "^4.1.2",
     "react-template-render": "^1.1.0",
 	"serve": "^9.4.0"
+  },
+  "scripts": {
+    "start": "webpack-dev-server --open", 
+	"build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+	"heroku-postbuild": "npm run build"
   },
   "devDependencies": {
     "babel-core": "^6.26.0",
