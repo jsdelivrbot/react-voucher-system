@@ -1,0 +1,8 @@
+{
+  "name": "VMS",
+  "description": "A sample voucher system with react and flutterwave rave",
+  "repository": "https://github.com/vic2oke/React-Voucher-System",
+  "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/master/public/node.svg",
+  "keywords": ["node", "react", "heroku"],
+  "image": "heroku/nodejs"
+}
