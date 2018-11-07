@@ -3,10 +3,6 @@
   "version": "1.0.0",
   "private":true,
   "description": "A sample voucher system with react and flutterwave rave",
-  "engines": {
-    "npm": "5.5.1",
-    "node": "8.x.x"
-  },
   "main": "src/index.js",
   "license": "MIT",
   "dependencies": {
